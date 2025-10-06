@@ -10,8 +10,10 @@
   "linter": {
     "rules": {
       "suspicious": {
-        
-        "noUnknownAtRules": "off" 
+        "noUnknownAtRules": "off"
+      },
+      "style": {
+        "useNamingConvention": "off"
       }
     }
   }
