@@ -14,6 +14,10 @@
       },
       "style": {
         "useNamingConvention": "off"
+      },
+      "nursery": {
+        "useConsistentTypeDefinitions": "off" ,
+        "useConsistentArrowReturn": "off" 
       }
     }
   }

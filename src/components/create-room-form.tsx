@@ -1,7 +1,7 @@
 import { zodResolver } from '@hookform/resolvers/zod'
 import { useForm } from 'react-hook-form'
 import z from 'zod/v4'
-import { UseCreateRoom } from '@/http/types/use-create-room'
+import { UseCreateRoom } from '@/http/use-create-room'
 import { Button } from './ui/button'
 import {
   Card,
